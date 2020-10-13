@@ -1,0 +1,4 @@
+regex
+setuptools # for easy_install on Windows
+morfeusz2 # http://morfeusz.sgjp.pl/download/
+matplotlib
