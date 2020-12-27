@@ -2,3 +2,5 @@
 **/.ipynb_checkpoints
 /polimorfologik-2.1
 **/word2vec
+lab9/ccl/*
+!ccl/.gitkeep
